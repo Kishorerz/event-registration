@@ -1,4 +1,3 @@
-<img width="959" alt="dept,pg" src="https://github.com/Kishorerz/event-registration/assets/144451216/09303eaf-e084-4609-a467-383e6818cfbf"># Event Registration Web Application
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
